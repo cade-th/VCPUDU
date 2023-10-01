@@ -9,7 +9,7 @@ run make on top directory level
  to be done
 
 
-#Done so Far:
+## Done so Far:
 - AND Gate
 - 4 bit adder
 
